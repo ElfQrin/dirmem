@@ -20,5 +20,6 @@ upm # Memorize current directory and go one directory up
 
 http://labs.geody.com/dirmem/
 
-Screenshot:
+Screenshots:
+<img src="https://raw.githubusercontent.com/ElfQrin/dirmem/master/dirmem_1.png" alt="GeodyLabs dirmem recall memorized directory dir folder Linux screenshot" />
 <img src="https://raw.githubusercontent.com/ElfQrin/dirmem/master/dirmem_2.png" alt="GeodyLabs dirmem recall memorized directory dir folder Linux screenshot" />
